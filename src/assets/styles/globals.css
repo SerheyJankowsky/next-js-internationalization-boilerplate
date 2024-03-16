@@ -31,3 +31,6 @@ body {
     text-wrap: balance;
   }
 }
+.uppercase-item > span {
+  text-transform: uppercase;
+}
